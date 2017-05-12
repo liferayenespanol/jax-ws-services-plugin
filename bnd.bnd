@@ -1,0 +1,6 @@
+BBundle-Name: jax-ws-services
+Bundle-SymbolicName: jax.ws.services
+Bundle-Version: 1.0.0
+Bundle-Activator: jax.ws.services.Activator
+ConfigurationPath: /configuration
+Include-Resource: configuration=src/main/resources/configuration

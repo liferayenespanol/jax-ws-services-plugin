@@ -1,0 +1,2 @@
+contextPath=/jax-ws-services
+authVerifierProperties=auth.verifier.BasicAuthHeaderAuthVerifier.urls.includes=*
